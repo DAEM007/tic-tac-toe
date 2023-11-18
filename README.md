@@ -1,6 +1,6 @@
 # Tic-tac-toe game
 
-> The aim of this project is to improve my thinking in react and styled-components.
+> *The aim of this project is to improve my thinking in react and styled-components.*
 
 ## Available Scripts
 
